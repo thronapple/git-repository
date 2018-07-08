@@ -9,4 +9,8 @@ ahsdahskaj
 =======
 
 I am a reacher,is a gardener.
+<<<<<<< HEAD
+>>>>>>> master
+=======
+Flyfish is swimming player,and he is very outstanding!
 >>>>>>> master
