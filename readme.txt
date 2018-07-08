@@ -20,3 +20,4 @@ sauhdahasj
 >>>>>>> master
 haha
 This is a test branch.
+This is a new update.
