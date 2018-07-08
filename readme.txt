@@ -13,4 +13,10 @@ I am a reacher,is a gardener.
 >>>>>>> master
 =======
 Flyfish is swimming player,and he is very outstanding!
+<<<<<<< HEAD
 >>>>>>> master
+=======
+sauhdahasj
+>>>>>>> master
+haha
+
